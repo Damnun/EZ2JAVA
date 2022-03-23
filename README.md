@@ -24,6 +24,10 @@ javazoom.net 사이트에서 다운로드 가능합니다.
 음악 재생을 관할하는 Music.java 클래스에 Thread를 상속하여 사용하였습니다.
 
 
+# 시연 영상 링크
+https://youtu.be/nnJ7nbTqlNA
+
+
 # 클래스 소개
 1.  Main : 메인 실행 클래스
 2.  Game  : 게임의 컨트롤 패널 클래스
